@@ -1348,7 +1348,7 @@ input[type=search]::-webkit-search-results-decoration {
   align-items: flex-start; }
 
 .payment_methods_section {
-  padding: 0 30px; }
+  padding: 30px 30px; }
   .payment_methods_section .content_wrapper {
     padding: 130px 15px;
     border-radius: 30px;
